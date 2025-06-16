@@ -1,4 +1,3 @@
-npm outdated
 
 const data = require('../shared/product-data');
 
